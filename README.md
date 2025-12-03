@@ -56,7 +56,7 @@ Palabras Clave: Circuito RC; Controlador PI; Sistema urinario; Modelo matematico
 1. Cuaderno computacional de MATLAB [.mlx]. [1]
 2. Modelo de Simulink [.slx]. [1]
 3. Imagen con los parámetros del controlador. [2]
-4. Imagénes de las simulaciones [.pdf y .png]. [8 + 4]
+4. Imagénes de las simulaciones [.pdf y .png]. [2 + 2]
 
 ## Referencias
 \[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
