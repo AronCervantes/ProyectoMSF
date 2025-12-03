@@ -2,12 +2,12 @@
 
 # ProyectoMSF
 
-## Infromación del estudiante
+## Información de los estudiantes
 Aron Cervantes Armenta \[22211750]; l22211750@tectijuana.edu.mx
 
 Bricia Idalia Arellano Salones \[22211746]; l22211776@tectijuana.edu.mx
 
-Alejandro Ramirez Zepeda \[222117xx]; l222117xx@tectijuana.edu.mx
+Alejandro Ramirez Zepeda \[22211765]; l22211765@tectijuana.edu.mx
 
 Abigail Villa Camacho \[22212276]; l22212276@tectijuana.edu.mx
 
