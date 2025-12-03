@@ -1,0 +1,34 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB;
+message: lenguaje m
+type: software
+authors:
+  - given-names: Aron
+    family-names: Cervantes
+    email: l22211750@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+  - given-names: Bricia
+    family-names: Arellano
+    email: l22211746@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+  - email: l22211765@tectijuana.edu.mx
+    given-names: Alejandro
+    family-names: Ramirez
+    affiliation: TecNM-ITT
+  - given-names: Abigail
+    family-names: Villa
+    email: l22212276@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/AronCervantes/ProyectoMSF'
+keywords:
+  - Circuito RC
+  - Controlador PI
+  - Sistema urinario
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-12-03'
