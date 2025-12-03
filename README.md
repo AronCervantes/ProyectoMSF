@@ -41,7 +41,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 El sistema urinario puede representarse como un circuito eléctrico donde cada componente imita la función de una parte del sistema. La producción de orina se modela con la fuente Vin. El riñón se representa con el capacitor CR y la resistencia Rr, que simulan su capacidad de regular presión y la oposición al flujo. Los uréteres se modelan mediante la resistencia RU, que representa la fricción natural del transporte hacia la vejiga.
 La vejiga funciona como un capacitor CV, encargado de almacenar orina; mientras más grande sea su valor, mayor es su capacidad de llenado. La salida del sistema depende del esfínter uretral, representado por la resistencia RE, que actúa como una barrera que controla cuándo la orina puede pasar hacia la uretra. Finalmente, la uretra se modela con el capacitor Cu, que representa el volumen previo a la expulsión y lleva a la salida Vout.
 
-Control
+Control: 
 En un individuo sano, todos los componentes del circuito mantienen valores adecuados para asegurar la producción, transporte, almacenamiento y vaciado normal de la orina. La vejiga (CV) almacena suficiente volumen, y el esfínter (RE) mantiene la continencia.
 
 Caso 1: Incontinencia por esfuerzo
