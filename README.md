@@ -31,9 +31,9 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 
 1. Calcular la función de transferencia.
 2. Determinar el modelo de ecuaciones integro-diferenciales.
-3. Establecer el sistema de ecuaciones diferenciales ordinarias lineales de primer orden.
-4. Emular la respuesta del circuito RLC en Simulink/Simscape al escalón, impulso, rampa y función sinusoidal.
-5. Simular la respuesta de los modelos matemáticos en Simulink/MATLAB al escalón, impulso, rampa y función sinusoidal.
+3. Establecer el sistema de ecuaciones diferenciales ordinarias lineales de tercer orden.
+4. Emular la respuesta del circuito RC en Simulink/Simscape al escalón, impulso, rampa y función sinusoidal.
+5. Simular la respuesta de los modelos matemáticos en Simulink/MATLAB al escalón.
 6. Sintonizar las ganancias de un controlador PID para eliminar el error entre la entrada y la salida del sistema.
 
 ## Descripción detallada del sistema
