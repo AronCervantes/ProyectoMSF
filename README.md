@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=AronCervantes/ProyectoMSF)
 
-# ProyectoMSF
+# Sistema Urinario
 
 ## Información de los estudiantes
 Aron Cervantes Armenta \[22211750]; l22211750@tectijuana.edu.mx
